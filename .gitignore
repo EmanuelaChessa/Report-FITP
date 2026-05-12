@@ -1,0 +1,27 @@
+# Dati e analisi (file privati/proprietari)
+*.xlsx
+*.xls
+*.csv
+
+# PDF e documenti interni
+*.pdf
+
+# File di lavoro e bozze
+_part*.html
+_test.*
+extract_sroi.py
+
+# Logo e asset grafici locali
+LOGO*.png
+OE_site_icon_*.png
+OpenEconomics-LOGO-*.png
+
+# Cartelle di sistema e tool
+files/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.code-workspace
